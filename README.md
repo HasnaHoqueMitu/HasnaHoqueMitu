@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasnaHoqueMitu
-- 👀 I’m interested in Frontend developing with React
-- 🌱 I’m currently learning Next.js
+- 👀 I’m interested in Frontend development with React
+- 
 
 <!---
 HasnaHoqueMitu/HasnaHoqueMitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
